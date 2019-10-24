@@ -1,13 +1,13 @@
-# qtum-opcodes-js
-The QTUM opcodes map
+# tachacoin-opcodes-js
+The TACHA opcodes map
 
 ## Installation
 ``` bash
-npm install qtum-opcodes
+npm install tachacoin-opcodes
 ```
 
 ## Setup
 ### Node.js
 ``` javascript
-var ops = require('qtum-opcodes')
+var ops = require('tachacoin-opcodes')
 ```

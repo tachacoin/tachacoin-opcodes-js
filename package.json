@@ -1,23 +1,23 @@
 {
-  "name": "qtum-opcodes",
+  "name": "tachacoin-opcodes",
   "version": "1.0.0",
-  "description": "The QTUM opcodes map",
+  "description": "The TACHA opcodes map",
   "main": "./index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qtumproject/qtum-opcodes-js.git"
+    "url": "git+https://github.com/tachacoin/tachacoin-opcodes-js.git"
   },
   "keywords": [
-    "qtum",
+    "tachacoin",
     "opcodes"
   ],
-  "author": "Qtum Weiyu",
+  "author": "Tacha Weiyu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qtumproject/qtum-opcodes-js/issues"
+    "url": "https://github.com/tachacoin/tachacoin-opcodes-js/issues"
   },
-  "homepage": "https://github.com/qtumproject/qtum-opcodes-js#readme"
+  "homepage": "https://github.com/tachacoin/tachacoin-opcodes-js#readme"
 }
